@@ -5,7 +5,7 @@ import sankey as sk
 # Loads javascript dependencies and configures Panel (required)
 pn.extension()
 
-FILENAME = "/Users/Diya/Downloads/ds3500_homework3/ds3500-hw3/generalized-dash/all_athlete_games.csv"
+FILENAME = "all_athlete_games.csv"
 
 # INITIALIZE API
 api = API()
